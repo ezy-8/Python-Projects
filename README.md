@@ -1,1 +1,1 @@
-Personal Projects to practice and hone Python Skills! 
+My name is Ethan and what you see above are my personal Projects to practice and hone my Python Skills! Over the next year, not only will I be practicing my skills, but also continually refining my projects as I go!
